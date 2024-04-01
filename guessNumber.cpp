@@ -1,6 +1,7 @@
 //Guess number between 0 and 100
 //If correct, output and exit. if not correct, prompt number bigger or smaller
 //5 chances
+//Link: https://www.bilibili.com/video/BV1eL41187JS?t=88.1&p=42 (other method)
 
 #include <iostream>
 #include <ctime> //using the current system time 
