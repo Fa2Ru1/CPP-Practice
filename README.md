@@ -11,4 +11,4 @@
 
 #### 参考二：习题
 代码位置：Code_02
-01. C++经典结构体题目：
+01. [C++结构体题目](https://www.cnblogs.com/pangblog/p/3285752.html)：structPractice.cpp  
