@@ -13,7 +13,7 @@ int main(){
 
     for(int i = 0; i < arrLength; i++){
         for(int j = 0; j < arrLength; j++){
-            if(arr[j] <= arr[j+1]){
+            if(arr[j] <= arr[j+1]){    //adjacent number comparison
                 arr[j];
             }else{
                 int temp = 0;
