@@ -9,6 +9,6 @@
 05. 选择排序：selectionSort.cpp  
 06. 冒泡排序：bubbleSort.cpp  
 
-#### 参考二：习题
+#### 参考二：各平台习题
 代码位置：Code_02
 01. [C++结构体题目](https://www.cnblogs.com/pangblog/p/3285752.html)：structPractice.cpp  
