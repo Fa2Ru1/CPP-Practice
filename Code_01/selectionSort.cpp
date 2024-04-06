@@ -14,7 +14,7 @@ int main(){
 
     for(int i = 0; i < arrLength; i++){
         for(int j = i + 1; j < arrLength; j++){
-            if(arr[i] <= arr[j]){   
+            if(arr[i] <= arr[j]){    //compare the first number with each number  
                 arr[i]; 
             }else{  //if bigger, swap the number
                 temp = arr[i];
