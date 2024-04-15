@@ -12,6 +12,14 @@ int main(){
     int arr[7] = {1, 2, 3, 4, 5, 6, 7};
     int length = sizeof(arr) / sizeof(arr[0]);
 
+    cout << "The array is:" << endl;
+
+    for(int i = 0; i < length; i++){
+        cout << arr[i] << " ";
+    }
+
+    cout << endl;
+    
     cout << "After reverse, the new array is:" << endl;
 
     for(int i = length - 1; i >= 0; i--){
