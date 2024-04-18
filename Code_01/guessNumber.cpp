@@ -10,7 +10,7 @@ using namespace std;
 int main(){
 
     srand((unsigned int)time(NULL));    //generate random numbers to ensure number is different every time
-    int randomNumber = (rand()%(100 - 0 + 1)) + 0;    //random number expression: (rand()%(b-a+1))+a [a, b]
+    int randomNumber = (rand()%(100 - 0 + 1)) + 0;    //random number expression: (rand()%(b-a+1))+a = [a, b]
 
     // cout << randomNumber << endl;    //test: verify number accuracy
 
