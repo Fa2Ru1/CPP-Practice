@@ -4,6 +4,7 @@
 //  - issue 1: different digit numbers can not run successfully
 //  - issue 2: negative numbers can not run successfully
 //Version_2: Continue...
+//Link: https://www.bilibili.com/video/BV1eL41187JS?t=6.2&p=70 (other methods)
 
 #include <iostream>
 using namespace std;
