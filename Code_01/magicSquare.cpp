@@ -1,6 +1,6 @@
 //A Magic Square:
 //Need to meet the requirement that the horizontal, vertical and diagonal sum is equal to same value
-//Link: https://www.bilibili.com/video/BV1eL41187JS?t=2.7&p=69 (better method: more concise)
+//Link: https://www.bilibili.com/video/BV1eL41187JS?t=2.7&p=69 (this method is more concise)
 
 #include <iostream>
 using namespace std;
