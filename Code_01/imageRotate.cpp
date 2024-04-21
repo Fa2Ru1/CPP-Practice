@@ -4,7 +4,7 @@
 //        {2, 4, 8, 10},
 //        {13, 3, 6, 7},
 //        {15, 14, 12, 16}
-//After rotating, the image is:
+//After rotating, the final image is:
 //        {15, 13, 2, 5},
 //        {14, 3, 4, 1},
 //        {12, 6, 8, 9},
