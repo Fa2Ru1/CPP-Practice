@@ -12,6 +12,7 @@
 //Tips:
 //  - Step 1: Alternating rows and columns (rows become columns, columns become rows)
 //  - Step 2: Alternating colums ([00] ~ [03]) to colums ([30] ~ [00]) 
+//Link: https://www.bilibili.com/video/BV1eL41187JS?t=3.3&p=71 (other methods)
 
 #include <iostream>
 using namespace std;
