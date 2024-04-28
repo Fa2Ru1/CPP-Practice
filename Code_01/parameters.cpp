@@ -3,8 +3,16 @@
 #include <iostream>
 using namespace std;
 
-/*can not work(n = 0)
+/*can not work (n = 0)
 void increase(int x){
+
+    x++;
+
+}
+*/
+
+/*using reference (n = 1) 
+void increase(int& x){
 
     x++;
 
