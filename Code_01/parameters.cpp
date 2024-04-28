@@ -11,7 +11,7 @@ void increase(int x){
 }
 */
 
-/*using reference (n = 1) 
+/*using reference parameter (n = 1) 
 void increase(int& x){
 
     x++;
@@ -19,6 +19,7 @@ void increase(int& x){
 }
 */
 
+//using value parameter (n = 1)
 void increase(int* x){
 
     (*x)++;
@@ -29,7 +30,12 @@ int main(){
 
     int n = 0;
     
+    //using value parameter
     increase(&n);
+
+    //using reference parameter
+    //increase(n);
+
     cout << "n = " << n << endl;
 
 }
