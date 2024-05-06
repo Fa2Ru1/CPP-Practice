@@ -58,7 +58,7 @@ int main(){
     cout << "The average grades of Math is: " << mathTotal / 3.0 << endl; 
     cout << "The average grades of Physics is: " << physicsTotal / 3.0 << endl;
 
-    //top student
+    //calculate top student
     for(int i =0; i < 3; i++){
         gradesTotal[i] = s[i].englishGrades + s[i].mathGrades + s[i].physicsGrades;
         if(maxGrades >= gradesTotal[i]){
